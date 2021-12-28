@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.choice" />
+          <option value="nonebot.get_driver" />
+          <option value="nonebot.init" />
+          <option value="nonebot.get_asgi" />
+          <option value="nonebot.load_builtin_plugins" />
+          <option value="nonebot.load_plugins" />
+          <option value="nonebot.logger" />
+          <option value="nonebot.run" />
+          <option value="nonebot.load_from_toml" />
+          <option value="int.zfill" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
