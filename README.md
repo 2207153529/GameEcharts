@@ -55,4 +55,6 @@
 > └─templates
 >         index.html
 
-- 数据采集：
+页面展示如下图：
+
+![](https://github.com/2207153529/GameEcharts/blob/main/images/%E9%A1%B5%E9%9D%A2%E5%9B%BE.png)
